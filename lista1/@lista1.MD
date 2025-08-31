@@ -26,7 +26,7 @@ Então, imprima um parágrafo `<p>` com o texto:
 ---
 
 ## 05. Interpolação de variáveis
-Repita o exercício anterior, mas utilize **interpolação de variáveis** (aspas duplas).
+Repita o exercício anterior, mas utilize **interpolação de variáveis**.
 
 ---
 
