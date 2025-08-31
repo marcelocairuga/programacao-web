@@ -88,12 +88,12 @@ Defina os seguintes atributos:
 
 ---
 
-## 11. Lista de divisores
+## 11. Lista de divisores com for
 Em um script PHP, crie uma variável `x` e atribua um valor inteiro entre 1 e 100.  
 Utilizando o laço **for**, imprima uma lista (`<ul>`) com todos os **divisores** de `x`.
 
 ---
 
-## 12. Lista de múltiplos
+## 12. Lista de múltiplos com while
 Em um script PHP, crie uma variável `x` e atribua um valor inteiro entre 1 e 10.  
 Utilizando o laço **while**, imprima uma lista (`<ul>`) com todos os seus **múltiplos menores do que 100**.
