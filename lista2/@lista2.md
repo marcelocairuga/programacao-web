@@ -20,7 +20,7 @@ Utilizando uma estrutura de repetição, calcule e imprima a **média** dos elem
 
 ## 03. Valores pares e ímpares coloridos
 Crie um array com números de sua preferência.  
-Em um único parágrafo `<p>`, imprima todos os valores do array, lado a lado.  
+Em um documento HTML, defina classes CSS para cor vermelha e cor azual. No corpo, em um único parágrafo `<p>`, imprima todos os valores do array, lado a lado.  
 
 - Valores **pares** devem ser impressos em **azul**.  
 - Valores **ímpares** devem ser impressos em **vermelho**.  
@@ -42,7 +42,7 @@ Em um documento HTML, imprima cada um dos elementos do array em um parágrafo `<
 Exemplo:
 
 ```text
-Nome: Elesbão
+**Nome**: Elesbão
 ```
 
 ---
