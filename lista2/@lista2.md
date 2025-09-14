@@ -37,9 +37,8 @@ Crie um documento HTML contendo um título `<h1>` com o texto **Lista de Frutas*
 
 ## 05. Dados de um estudante
 Crie um array associativo com os dados de um estudante: **nome, curso, e-mail, idade, nota e faltas**.  
-Em um documento HTML, imprima cada um dos elementos do array em um parágrafo `<p>` próprio, contendo a **chave em negrito**, seguida do respectivo valor.  
+Em um documento HTML, imprima cada um dos elementos do array em um parágrafo `<p>` próprio, contendo a **chave em negrito**, seguida do respectivo valor. Exemplo:
 
-Exemplo:
 **Nome**: Elesbão
 
 ---
