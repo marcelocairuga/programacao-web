@@ -47,6 +47,6 @@ Em um documento HTML, imprima cada um dos elementos do array em um parágrafo `<
 Crie um array para armazenar os dados de um conjunto de pacientes de um consultório médico.  
 Cada elemento do array deve ser representado por um **array associativo** com as chaves: **nome, idade, altura e peso**.  
 
-Em um documento HTML, crie uma **tabela** para exibir a lista de pacientes, gerando as linhas dinamicamente conforme os elementos do array.
+Em um documento HTML, crie uma **tabela** para exibir a listagem de pacientes, gerando as linhas dinamicamente a partir dos elementos existentes no array.
 
 ---
