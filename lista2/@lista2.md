@@ -40,10 +40,7 @@ Crie um array associativo com os dados de um estudante: **nome, curso, e-mail, i
 Em um documento HTML, imprima cada um dos elementos do array em um parágrafo `<p>` próprio, contendo a **chave em negrito**, seguida do respectivo valor.  
 
 Exemplo:
-
-```text
 **Nome**: Elesbão
-```
 
 ---
 
