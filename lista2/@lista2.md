@@ -1,4 +1,5 @@
-# Lista de Exercícios 2 – Trabalhando co
+# Lista de Exercícios 2 – Trabalhando com Arrays
+
 
 ## 01. Soma dos elementos de um array
 Crie um array com cinco números de sua preferência.  
