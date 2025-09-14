@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Atividade - Criar Card via JavaScript</title>
+<style>
+   * {
+      box-sizing: border-box;
+      padding: 0;
+      margin: 0;
+   }
+   body {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      padding: 40px;
+   }
+   input, select, button, label {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      height: 30px;
+   }
+   .radio {
+      display: flex;
+      gap: 30px;
+   }
+   .radio-item {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+   }
+
+   .form {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      max-width: 250px;
+   }
+   .card {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 16px;
+      max-width: 250px;
+      box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+      margin-top: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+   }
+   .card h3 {
+      margin: 0 0 10px 0;
+      color: #333;
+   }
+   .card p {
+      margin: 4px 0;
+      color: #555;
+   }
+</style>
+</head>
+<body>
+   <div class="form">
+      <h3>Cadastro de Estudante</h3>
+      <input type="text" id="nome" placeholder="Nome">
+      <input type="number" id="idade" placeholder="Idade">
+      <select id="curso">
+         <option value="Informática">Informática</option>
+         <option value="Mecatrônica">Mecatrônica</option>
+      </select>
+      <div class="radio">
+         <div class="radio-item">
+            <input type="radio" name="turno" id="manha" value="manhã">
+            Manhã
+         </div>
+         <div class="radio-item">
+            <input type="radio" name="turno" id="tarde" value="tarde">
+            Tarde
+         </div>
+      </div>
+      <button id="btnCriar">Criar Card</button>
+   </div>
+   <div id="resultado"></div>
+
+   <script>
+
+   // sua respostsa aqui
+
+   </script>
+</body>
+</html>
