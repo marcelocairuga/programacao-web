@@ -69,8 +69,8 @@ $preco_medio = $quantidade > 0 ? $soma_precos / $quantidade : 0;
             </tr>
             <?php foreach($produtos as $produto): ?>
                 <tr>
-                    <td><?= htmlspecialchars($produto["codigo"]) ?></td>
-                    <td><?= htmlspecialchars($produto["nome"]) ?></td>
+                    <td><?= $produto["codigo"] ?></td>
+                    <td><?= $produto["nome"] ?></td>
                     <td><?= $produto["estoque"] ?></td>
                     <td>R$ <?= number_format($produto["preco"], 2, ',', '.') ?></td>
                 </tr>
