@@ -10,10 +10,10 @@
         <input type="text" name="nome" id="nome">
 
         <label for="ingresso">Ano de Ingresso:</label>
-        <input type="number" name="ingresso" id="ingresso">
+        <input type="text" name="ingresso" id="ingresso">
 
         <label for="curso">Curso:</label>
-        <select name="curso" id="curso" required>
+        <select name="curso" id="curso">
             <option value="">-- Selecione um curso --</option>
             <option value="inf">Técnico em Informática</option>
             <option value="mct">Técnico em Mecatrônica</option>
